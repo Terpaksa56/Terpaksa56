@@ -45,17 +45,17 @@ Currently, I'm exploring the intersection of software, data, and business throug
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Terpaksa56&show_icons=true&theme=blue_navy" alt="GitHub Stats" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Terpaksa56&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terpaksa56&layout=compact&theme=blue_navy" alt="Top Languages" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terpaksa56&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Terpaksa56&theme=blue_navy&hide_border=true" alt="GitHub Streak">
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Terpaksa56&theme=blue-navy" alt="GitHub Streak" />
+</p>
 
 ## Contribution Activity
 
